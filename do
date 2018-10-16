@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt install tmux git pydf htop nmap wget curl atool bzip2
+apt install tmux git pydf htop nmap wget curl atool bzip2 ncdu
 
 cd /etc
 
