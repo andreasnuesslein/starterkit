@@ -15,3 +15,4 @@ wget $BASEPATH/etc/gitconfig -O /etc/gitconfig
 wget $BASEPATH/etc/bash_color.sh -O /etc/bash_color.sh
 wget $BASEPATH/etc/bash_prompt.sh -O /etc/bash_prompt.sh
 wget $BASEPATH/etc/bash.bashrc -O /etc/bash.bashrc
+wget $BASEPATH/etc/profile -O /etc/profile
