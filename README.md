@@ -1,8 +1,8 @@
 # starterkit
 just the bare minimum to make a system administrable
 
-`curl https://raw.githubusercontent.com/andreasnuesslein/starterkit/master/do | bash -`
+`curl https://git.io/starterkit | bash -`
 
 or 
 
-`wget https://raw.githubusercontent.com/andreasnuesslein/starterkit/master/do  -O - | bash -s`
+`wget https://git.io/starterkit  -O - | bash -s`
